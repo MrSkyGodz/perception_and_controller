@@ -1,0 +1,4 @@
+[submodule "Perception"]
+	path = Perception
+	url = https://github.com/MrSkyGodz/Perception-Project.git
+	branch = Autonomous-Vehicle-End-to-End-Control-Project-Solution
